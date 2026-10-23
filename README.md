@@ -1,4 +1,4 @@
-# CS464 Assignment 02 · [Your name] · BSCS23001
+# CS464 Assignment 02 · Muhammad Sarmad Ahmad · BSSE23013
 
 - **Video:** https://drive.google.com/file/d/1vgxCzGGIaaYDg7PZmaMagFUtj6dvMZ4A/view?usp=vids_web
 - **Input:** Legacy Input with Active Input Handling set to Both
